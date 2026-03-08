@@ -48,3 +48,19 @@ http://localhost:3000
 ## Repositorio
 
 https://github.com/javier5445p-ui/saborclick
+
+
+
+## Prototipo interactivo
+
+https://www.figma.com/design/I8uVanIqmRoBqUHQAPYbFx/SABOR-CLICK?node-id=1-2&t=yTkTrogle7lRISo2-1
+
+## Integrantes
+JAVIER PEÑA PALACIN 
+JEREMY DIAZ TORRES 
+
+
+
+
+
+
