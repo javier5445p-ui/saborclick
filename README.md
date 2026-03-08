@@ -57,6 +57,7 @@ https://www.figma.com/design/I8uVanIqmRoBqUHQAPYbFx/SABOR-CLICK?node-id=1-2&t=yT
 
 ## Integrantes
 JAVIER PEÑA PALACIN 
+
 JEREMY DIAZ TORRES 
 
 
